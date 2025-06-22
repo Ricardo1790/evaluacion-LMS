@@ -3,54 +3,53 @@ En esta actividad, el estudiante desarrollará una reseña crítica comparativa 
 # Comparativa de Plataformas LMS: Moodle, Blackboard y Canvas
 
 ## 📝 Resumen
-*(Escriba aquí un párrafo entre 150 y 250 palabras que explique el propósito del análisis, el procedimiento realizado y los hallazgos principales. Debe estar redactado en pasado.)*
+El análisis se realizó para comparar tres plataformas LMS (Moodle, Blackboard y Canvas) con el objetivo de determinar cuál ofrecía mejor funcionalidad, usabilidad y adaptabilidad. Se revisó información reciente de fuentes especializadas, evaluaciones de usuarios y documentación oficial. Se analizaron características generales, fortalezas y debilidades de cada plataforma, así como aspectos de personalización, herramientas pedagógicas y soporte. Se mostraron que Moodle destaca por su flexibilidad y coste, Blackboard sobresalía en accesibilidad institucional y accesibilidad para personas con discapacidades, y Canvas ofrecía una experiencia de usuario intuitiva y buena integración móvil.
 
 ## 🔑 Palabras clave
-*(Escriba aquí cinco palabras clave separadas por comas y en orden alfabético. Ejemplo: aprendizaje virtual, Blackboard, Canvas, Moodle, plataformas LMS)*
+aprendizaje virtual, Blackboard, Canvas, Moodle, plataformas LMS
 
 ---
 
 ## 🎯 Introducción
-*(Describa en pasado los antecedentes del análisis: ¿por qué es importante estudiar estas plataformas?, ¿qué problema se plantea?, ¿cuál fue el objetivo del trabajo? Puede incluir una breve justificación del enfoque.)*
+Se planteó este estudio debido al creciente uso educativo y corporativo de plataformas LMS, y la necesidad de identificar cuál se adaptaba mejor a distintos escenarios institucionales. El problema consistía en que muchas organizaciones debían elegir entre opciones con características y modelos de negocio muy distintos (código abierto vs propietario, niveles de soporte y accesibilidad). El objetivo es comparar sistemáticamente Moodle, Blackboard y Canvas usando criterios funcionales, pedagógicos y económicos, con justificación en resultados de usuarios y análisis recientes que destacaban sus diferencias esenciales.
 
 ---
 
 ## 🔍 Desarrollo del análisis
 
 ### Moodle
-- Características generales:
-- Fortalezas:
-- Debilidades:
+- **Características generales:** Software libre y de código abierto, altamente personalizable con plugins, extensible y compatible con estándares SCORM, LTI.  
+- **Fortalezas:** Control total sobre el entorno, coste de licencia cero, gran comunidad de soporte, apto para diversos niveles educativos.  
+- **Debilidades:** Curva de aprendizaje pronunciada, requiere soporte técnico para instalación y mantenimiento, algunos plugins pueden ser costosos o complejos.
 
 ### Blackboard
-- Características generales:
-- Fortalezas:
-- Debilidades:
+- **Características generales:** Plataforma propietaria con énfasis en accesibilidad, integración institucional sólida y herramientas avanzadas.  
+- **Fortalezas:** Excelente accesibilidad (lector de pantalla, navegación por teclado), herramientas de evaluación estructurada como rúbricas y retroalimentación.  
+- **Debilidades:** Costo elevado, ha tenido históricamente problemas técnicos en implementaciones a gran escala.
 
 ### Canvas
-- Características generales:
-- Fortalezas:
-- Debilidades:
+- **Características generales:** LMS semi‑open source por Instructure, interfaz moderna, apps móviles robustas, herramientas como SpeedGrader.  
+- **Fortalezas:** Uso muy intuitivo, soporte móvil de calidad, herramientas para video y rutas de aprendizaje personalizadas (Mastery Paths).  
+- **Debilidades:** Menor capacidad de personalización comparada con Moodle, opciones de marca limitadas.
 
 ---
 
-## 📊 Cuadro comparativo (Opcional)
+## 📊 Cuadro comparativo
 
-| Plataforma | Usabilidad | Herramientas Pedagógicas | Personalización | Soporte |
-|------------|------------|--------------------------|------------------|---------|
-| Moodle     |            |                          |                  |         |
-| Blackboard |            |                          |                  |         |
-| Canvas     |            |                          |                  |         |
+| Plataforma  | Usabilidad      | Herramientas Pedagógicas     | Personalización            | Soporte / Accesibilidad                     |
+|-------------|-----------------|------------------------------|----------------------------|---------------------------------------------|
+| **Moodle**     | Media-alta, curva técnica | Quiz, rúbricas, multimedia | Muy alta (plugins/código)    | Comunidad activa o socios técnicos         |
+| **Blackboard** | Alta, tradicional         | Evaluación avanzada          | Media (configurable)         | Soporte institucional, enfocada en accesibilidad |
+| **Canvas**     | Muy alta, moderna         | SpeedGrader, Canvas Studio   | Moderada                     | Apps móviles, soporte profesional          |
 
 ---
 
 ## 🧠 Conclusión
-*(Redacte una síntesis crítica de los hallazgos: ¿qué plataforma resulta más adecuada para determinado contexto?, ¿qué aprendió del análisis?, ¿cómo lo aplicaría en su entorno?)*
+Moodle es ideal para proyectos con alta necesidad de personalización y presupuesto ajustado, siempre que se cuente con soporte técnico propio. Blackboard resulta más adecuado para grandes instituciones que priorizan la accesibilidad y evaluación estructurada, a cambio de mayor inversión. Canvas es la mejor opción para implementaciones rápidas, experiencia moderna y colaboración; aunque ofrece menos personalización, compensa con facilidad de uso. El análisis demostró que la plataforma “mejor” depende del contexto: coste, soporte, accesibilidad y experiencia docente.
 
 ---
 
 ## 📚 Referencias
-*(Incorpore aquí solo las fuentes que realmente haya consultado, en formato APA 7. Mínimo 2 referencias.)*
+- Moodle. (2002). *Moodle*. En *Wikipedia*.  
+- Colman, H., & Salas, A. (2025, febrero 28). *Blackboard vs Moodle vs Canvas: Big Comparison for 2025*. iSpring Solutions.
 
-> Ejemplo:  
-> Siemens, G. (2005). *Connectivism: A learning theory for the digital age*. International Journal of Instructional Technology and Distance Learning, 2(1), 3-10.
